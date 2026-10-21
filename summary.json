@@ -1,0 +1,6 @@
+Device      Records     Avg Temp    Errors
+----------------------------------------------
+DEV_A       3           59.17       1
+DEV_C       3           40.0        1
+
+Results saved to summary.json
